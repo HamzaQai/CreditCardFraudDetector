@@ -191,12 +191,8 @@ threshold = detector.find_optimal_threshold(X_test, y_test, metric='business')
 ## 👨‍💼 Contact
 
 **Spécialiste en Détection de Fraude**  
-📧 Email : votre.email@domain.com  
-💼 LinkedIn : [Votre Profil]  
-🐙 GitHub : [Autres Projets]
+📧 Email : amza.qaissi@gmail.com 
+💼 LinkedIn :(https://www.linkedin.com/in/hamza-qaissi-a7a128137/)
 
----
 
-⭐ **Star ce repo si le code vous inspire !** ⭐
 
-*Projet développé pour démontrer l'expertise en détection de fraude et machine learning appliqué aux problématiques business réelles.*
