@@ -1,0 +1,15 @@
+{
+  "name": "suptracker",
+  "version": "1.0.0",
+  "description": "Supplement tracking application",
+  "scripts": {
+    "install:all": "cd server && npm install && cd ../client && npm install",
+    "dev:server": "cd server && npm start",
+    "dev:client": "cd client && npm run dev",
+    "seed": "cd server && npm run seed",
+    "build": "cd client && npm run build"
+  },
+  "keywords": ["supplements", "health", "tracking"],
+  "author": "Hamza Qaissi",
+  "license": "MIT"
+}
